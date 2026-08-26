@@ -29,3 +29,5 @@ Before using a package, you need to load it to your R session using:
 > library(lib_name)
 ```
 Alternatively, you can use a command without loading its package by listing the package name first, followed by double colons ::, followed by the command, as shown above.
+
+Next, download the R script provided in this repository, open in R, execute command lines, and observe the output. To execute one line at a time, use Ctrl+R in Windows or Ctrl+Enter in Mac, or click 'Run line or selection' from the Edit menu. To execute all lines, click 'Run all' from the Edit menu.
