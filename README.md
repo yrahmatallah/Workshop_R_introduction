@@ -15,11 +15,11 @@ When installation finishes successfully, open R graphical user interface (GUI). 
 ```R
 > install.packages("BiocManager")
 ```
-After installation finishes successfully, install the latest version of Bioconductor using command install from package BiocManager:
+After installation finishes successfully, install the latest version of Bioconductor using command install from package BiocManager (version 3.23, April-October 2026):
 ```R
 > BiocManager::install(version = "3.23")
 ```
-From here and goinf forward, you can install any package from Bioconductor using:
+Going forward, you can install any package from Bioconductor using:
 ```R
 > BiocManager::install("package-name")
 ```
