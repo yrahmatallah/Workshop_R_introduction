@@ -1,4 +1,4 @@
-# Introduction to R and Bioconductor Packages
+# Introduction to R
 Educational module that covers installing R and Bioconductor packages, basic commands, syntax, and data structures in R, and an omics dataset analysis exercise.
 
 ## Objective
