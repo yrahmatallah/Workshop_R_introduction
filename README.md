@@ -1,8 +1,8 @@
-# Introduction to R
-Educational module that covers installing R and Bioconductor packages, basic commands, syntax, and data structures in R, and an omics dataset analysis exercise.
+# Introduction
+R is a free software environment for statistical computing and graphics. Thousands of R packages can be freely installed from public repositories such as the Comprehensive R Archive Network (CRAN), Bioconductor, or GitHub. Bioconductor is a public repository that specializes in software, annotation, and experimental data packages related to biological data. Using R and Bioconductor packages is essential for Bioinformaticians, computational biologists, researchers or students conducting research that relies on omics datasets such as genomics, transcriptomics, or proteomics datasets. This educational module is the first in a series of following workshops to be delivered by the Arkansas INBRE Data Science core. It covers installing R and Bioconductor packages, basic commands, syntax, and data structures in R.
 
 ## Objective
-The module supporting this workshop walk absolute beginners through the installation steps of R computing environment, and package installation from the CRAN and Bioconductor repositories. The model then introduce basic commands, syntax, and data structures used in R with examples. Finally, the module walk learners through an omics dataset analysis exercise.
+The module supporting this workshop walk absolute beginners through the installation steps of R computing environment, and package installation from the CRAN and Bioconductor repositories. The model then introduce basic commands, syntax, and data structures used in R with examples.
 
 ## Setup (Required prior to attending the workshop)
 Before attending the workshop, install R on your personal computer/laptop following these steps:
