@@ -4,6 +4,9 @@ R is a free software environment for statistical computing and graphics. Thousan
 ## Objective
 The module supporting this workshop walk absolute beginners through the installation steps of R computing environment, and package installation from the CRAN and Bioconductor repositories. The model then introduce basic commands, syntax, and data structures used in R with examples.
 
+## Expectations
+The workshop session lasts for 2 hours. During the session, the instructor will explain the code lines, the generated output, and answer questions. Participants are expected to follow the installation instructions shown below prior to attending the session. The session will be recorded and made available for later view. 
+
 ## Setup (Required prior to attending the workshop)
 Before attending the workshop, install R on your personal computer/laptop following these steps:
 1. Visit the R-Project website https://www.r-project.org to download and install R.
@@ -30,4 +33,4 @@ Before using a package, you need to load it to your R session using:
 ```
 Alternatively, you can use a command without loading its package by listing the package name first, followed by double colons ::, followed by the command, as shown above.
 
-Next, download the R script provided in this repository, open in R, execute command lines, and observe the output. To execute one line at a time, use Ctrl+R in Windows or Ctrl+Enter in Mac, or click 'Run line or selection' from the Edit menu. To execute all lines, click 'Run all' from the Edit menu.
+Next, download the R script and slides provided in this repository, open the script in R, execute command lines, and observe the output. To execute one line at a time, use Ctrl+R in Windows or Ctrl+Enter in Mac, or click 'Run line or selection' from the Edit menu. To execute all lines, click 'Run all' from the Edit menu. The code lines and their outputs are shown in the slides and discussed during the workshop.
