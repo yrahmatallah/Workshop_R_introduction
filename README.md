@@ -5,7 +5,7 @@ R is a free software environment for statistical computing and graphics. Thousan
 The module supporting this workshop walk absolute beginners through the installation steps of R computing environment, and package installation from the CRAN and Bioconductor repositories. The model then introduce basic commands, syntax, and data structures used in R with examples.
 
 ## Expectations
-The workshop session lasts for 2 hours. During the session, the instructor will explain the code lines, the generated output, and answer questions. Participants are expected to follow the installation instructions shown below prior to attending the session. The session will not be recorded but a separate video covering the full material will be made available for later view. 
+The workshop session lasts for 2 hours. During the session, the instructor will explain the code lines, the generated output, and answer questions. Participants are expected to follow the installation instructions shown below prior to attending the session. The session will not be recorded but a separate video covering the full material is available here https://uams.zoom.us/rec/share/YmFlsVISrBXyuBBU2Z43VhS9EiE6UuSsNBWaqi1MtVt0rsYOctC8QUEm-XgrMguX.l5HjQvrNMWjZsGOV?pwd=DAmZNh2Xcbfq7Xr1wgAAIAAAAERv9oe2rJfhI1-Pcf8HaGUIZ6_FMIKW-5zgVSscfFXXgj0B7wcIZ0X1GkKMbduT6zAwMDAwNA. 
 
 ## Setup (Required prior to attending the workshop)
 Before attending the workshop, install R on your personal computer/laptop following these steps:
